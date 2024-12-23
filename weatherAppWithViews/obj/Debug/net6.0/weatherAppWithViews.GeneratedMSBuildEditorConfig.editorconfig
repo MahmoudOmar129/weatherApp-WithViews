@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = weatherAppWithViews
+build_property.RootNamespace = weatherAppWithViews
+build_property.ProjectDir = D:\MyWork\.NetCore\weatherAppWithViews\weatherAppWithViews\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MyWork\.NetCore\weatherAppWithViews\weatherAppWithViews
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/Shared/Component/City/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudFxDaXR5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/Shared/_CityPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DaXR5UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/Weather/City.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlclxDaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/Weather/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/_ViewImport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyWork/.NetCore/weatherAppWithViews/weatherAppWithViews/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

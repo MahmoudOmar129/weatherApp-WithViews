@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QnA8XX2J8UnQb4IpEDBpwdGN8MgQI86u6hyZ52C+6M0=",
+  "Source": "weatherAppWithViews",
+  "BasePath": "_content/weatherAppWithViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "weatherAppWithViews\\wwwroot",
+      "Source": "weatherAppWithViews",
+      "ContentRoot": "D:\\MyWork\\.NetCore\\weatherAppWithViews\\weatherAppWithViews\\wwwroot\\",
+      "BasePath": "_content/weatherAppWithViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\MyWork\\.NetCore\\weatherAppWithViews\\weatherAppWithViews\\wwwroot\\StyleSheet.css",
+      "SourceId": "weatherAppWithViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyWork\\.NetCore\\weatherAppWithViews\\weatherAppWithViews\\wwwroot\\",
+      "BasePath": "_content/weatherAppWithViews",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
